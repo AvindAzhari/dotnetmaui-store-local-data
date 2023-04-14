@@ -1,0 +1,1 @@
+C:\Users\avinf\OneDrive\Desktop\mslearn-dotnetmaui-store-local-data-main\People\People\People.csproj;x64
